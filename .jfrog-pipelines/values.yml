@@ -2,7 +2,7 @@ templateRepository:
   gitProvider: rajGit
   path: RjSH1/templates
   branch: main
-  templateFolder: templates/templates/shippable/foo
+  templateFolder: templates/shippable/foo
 
 publishTemplate:
   namespace: rajTemplates
