@@ -1,6 +1,6 @@
 templateRepository:
   gitProvider: rajGit
-  path: RjSH1/templates
+  path: RjSH1/old-templates
   branch: main
   templateFolder: templates/shippable/foo
 
